@@ -1,0 +1,156 @@
+.mainpage{
+    background-color:black;
+}
+
+#titleimg{
+    
+    background-image:url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png);
+    height: 670px;
+    background-size:cover;
+    text-align: center;
+}
+#menu{
+    background-color: rgb(222, 220, 220);
+    font-size: xxx-large;
+    width: 1627px;
+    position: relative;
+    margin-top:-70px ;
+}
+#menu1{
+    position: relative;
+    margin-top:-49px;
+    display: flex;
+    background-color:lightgrey;
+    width:1627px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+#menu2{
+    display:flex;
+    background-color:lightgrey;
+    
+    text-align: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+.round{
+    
+    border:40px solid white;
+    border-radius: 40px;
+
+}
+#titleimg h1,h3{
+    text-align: center;
+    font-size:80;
+    color:white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
+button{
+height: 50px;
+width: 150px;
+margin: 15px;
+font-size: large;
+font-weight: bold;
+border: none;
+border-radius: 8px;
+background-color:chocolate;
+color:whitesmoke;
+cursor: pointer;
+}
+#whychooseus{
+    background-color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    margin-top:-47px;
+}
+
+.whychooseus1{
+    background-color: white;
+    position: relative;
+    margin-top:-50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 45px;
+    text-align: center;
+
+}
+.y{
+    align-items: center;
+    position: relative;
+    border-radius: 50%;
+   }
+
+nav{
+    display: block;
+
+}
+
+nav ul{
+    display: flex;
+    justify-content: right;
+    background-color:chocolate;
+    font-size:20px;
+    padding: 5px;
+
+}
+nav ul li{
+    margin: 30px;
+    font-size: 20px;
+    color:black;
+}
+ul li a{
+    color:aliceblue
+}
+.va{
+    font-size: 23px;
+}
+#dp{
+    background-color:white;
+    position: relative;
+    margin-top: -30px;
+
+
+}
+#order{
+    border:3px solid black;
+    border-radius: 30mm;
+}
+#follow{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: grey;
+}
+flw{
+    border-radius: 50px;
+    background-color: gray;
+}
+#followus{
+    background-color: black;
+    color: grey;
+    font-size: small;
+}
+
+a:link {
+    color: #FF0000;
+  }
+  a:visited {
+    color:white;
+  }
+  a:hover {
+    color: black;
+  }
+  a:active {
+    color: #0000FF;
+  }
+.mybutton:hover{
+    color:yellowgreen
+    cursor:pointer;
+}
