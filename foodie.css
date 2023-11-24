@@ -12,7 +12,6 @@
 #menu{
     background-color: rgb(222, 220, 220);
     font-size: xxx-large;
-    width: 1627px;
     position: relative;
     margin-top:-70px ;
 }
@@ -21,7 +20,6 @@
     margin-top:-49px;
     display: flex;
     background-color:lightgrey;
-    width:1627px;
     text-align: center;
     justify-content: center;
     align-items: center;
