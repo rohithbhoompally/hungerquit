@@ -1,0 +1,17 @@
+body{
+    background-image:url("https://cdn.magicdecor.in/com/2023/09/29160424/3D-Wallpaper-for-Restaurant-Wall-Mix-scaled.jpg");
+    opacity: 95%;
+}
+
+#title{
+    background-color:white;
+    width: 50%;
+    height: 50%;
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    position: absolute;
+    top:25%;
+    left:25%;
+    color:chocolate;
+}
